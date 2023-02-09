@@ -6,7 +6,7 @@ const siteMetadata = {
   description:
     "This is for the development of HumanCentric AI related Documentation.",
   twitterName: "webcivics",
-  imageUrl: "/graph-visualisation.jpg",
+  imageUrl: "/dalipainting.jpg",
   siteUrl: "https://docs.humancentricai.org",
 };
 module.exports = {
