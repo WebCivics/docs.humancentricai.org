@@ -68,3 +68,5 @@ Hopefully, an option for those who seek something like this, may be brought abou
 For more information on the work being done to achieve this, please note the [Webizen Dev Docs](https://devdocs.webizen.org/) and related project. 
 
 As noted; if you'd like any further clarification let me know.
+
+The community work on the Sense project will be brought into the [[CommunityChannels]].

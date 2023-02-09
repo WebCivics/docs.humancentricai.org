@@ -6,7 +6,7 @@ Whilst others may not consider this to be specifically about CognativeAI, its th
 
 ## Applied Theory: Notes re: Webizen
 
-As is otherwise noted in the document about [[SafetyConsiderations]], the use and development of Cognitive AI systems by me and related works that are specifically related to me; and the advancement of my works by others, are sought to be defined in a way that advances the tooling required to support [[HumanCentricDigitalIdentity]], [[HumanCentricAI]] and related [[Centricity]] considerations specifically.  Therein - These works are not sought to be employed to deploy AI Agents that act in a [[NobodyAI]] like manner / methodology; and particular protections are sought to be forged in-order to ensure that my works are not employed for those purposes.  
+The use and development of Cognitive AI systems by me and related works that are specifically related to me; and the advancement of my works by others, are sought to be defined in a way that advances the tooling required to support [[HumanCentricAI]] and related  considerations.  Therein - These works are not sought to be employed to deploy AI Agents that act in a [[NobodyAI]] like manner / methodology; and particular protections are sought to be forged in-order to ensure that my works are not employed for those purposes.  
 
 These objectives form constituencies to the requirements for [[EndingDigitalSlavery]].
 
@@ -14,9 +14,7 @@ These objectives form constituencies to the requirements for [[EndingDigitalSlav
 
 Historical works sought to produce what i called a 'knowledge banking' ecosystem methodology; which was dependant upon the useful employment of what was in-effect a belief - that organisations would want to usefully support human agency and support the fundamental requirements necessary, in-order to do so; and in-turn, gainfully benefit via the operation of infrastructure that supported those requirements.  Yet, this isn't what happened.
 
-The commercial deployment of works, particularly those around 'Digital Identity' specifically excluded support for; what is essentially about -human right, even though, the consequence of doing so engendered what is in-effect a choice to institutionally support  [[SocialAttackVectors]].   Within these systems the 'agent' was intended to support the requirements for, what is now being illustrated as [[HumanCentricOntology]].
-
-More information about these former 'designs' is illustrated in documents like [[TheSemanticInforg&TheHumanCentricWeb — RealityCheckTech]] that have been copied into this documetation repo.  
+The commercial deployment of works, particularly those around 'Digital Identity' specifically excluded support for; what is essentially about -human right, even though, the consequence of doing so engendered what is in-effect a choice to institutionally support  [[SocialAttackVectors]].   Within these systems the 'agent' was intended to support the requirements for, what is now being illustrated as  Human Centric Ontology. However the means to achieve that well, is seemingly produced via the work done on the [[Sense]] project.
 
 SO, whilst motified; and subject to on-going harms by people who - i consider simply, to be bad people - i went about trying to figure out how to define this ontology, which involved engaging in debate about it with leading minds world-wide via forum focused on the science of consciousness and all sorts of weird and wonderful advanced concepts therein.  This then led to debates about issues that limited the means to form productive works in the field.
 
@@ -108,7 +106,5 @@ It's important to note that the specific data structure of a cognitive database 
 
 It's worth noting that not all cognitive databases will include all of these elements and the specific data structure may vary depending on the application and the specific use case.
 
-NOTES:
 
-Below are notes that are relevant for the work described in the [[PCTOntologyModelling]] page (currently) about how to form a method for top-level ontological structures.  
 

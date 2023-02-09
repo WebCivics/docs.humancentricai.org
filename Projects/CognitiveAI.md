@@ -23,6 +23,7 @@ Work to produce an open-standard for Cognative AI is being undertaken now in the
 "The real world is frustratingly uncertain, incomplete and inconsistent. This is challenging for traditional approaches to information systems, and a new paradigm is needed that combines symbolic and statistical techniques, building upon decades of work in the cognitive sciences, and over 500 million years of natural selection. This will allow us to create cognitive agents that learn and reason based upon prior knowledge and past experience, and which can satisfy the need for, transparency in decision making, and continuous learning for adapting to ever changing needs. This community group will address opportunities for cognitive agents using graphs, statistics, rules and graph algorithms, starting with an amalgam of RDF and Property Graphs, together with Web architecture for cognitive databases."
 
 Source:  [W3C CogAI CG](https://www.w3.org/community/cogai/) 
+LICENSING: The [W3C CogAI Contributor Agreement is defined HERE](https://www.w3.org/community/about/process/cla/)
 
 Note also the GitHub link for the [CogAI](https://github.com/w3c/cogai/).
 
