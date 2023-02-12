@@ -1,7 +1,9 @@
 # About Web Civics
 
-Web Civics was established in 2014. 
+### Background
 
-Some of the underlying works produced under the banner of 'Web Civics' is provided in the Old Work Archives folder; including,
+Web Civics was established in 2014 for the purpose of seeking to improve support for cooperative and collaborative 'Web' 'Civics' works by members of our human family across the world; to produce outcomes via technology related works, for the betterment of humanity.  Overtime the founder of Web Civics and an array of others who've been involved since that time, have participated in the development of projects relating to technologies, some of which have become instrumentally important worldwide.  The specific concept of Human Centric AI first started some years ago.  Sometime later, the Facebook Group [Human Centric AI](https://www.facebook.com/groups/humancentric.ai.tech) was set-up although not enough has been done with it since. 
+
+The term 'Human Centric AI' has proliferated over recent years, and is often used in connection to various different sorts of considerations and fields of interest; and in-turn also, sought to be applied to different types of systems that present different types of characteristics. As the consequences of AI is becoming far more apparent, it appeared to me that it would be good to have some sort of community engagement structure that could help foster the growth of Human Centric AI considerations - for the betterment of humanity.
 
 The Purpose of Web Civics is about the production of Technology for the Public Good.  The practice method includes an array of [[WebScience]] related considerations, although not exclusively.  The Intended outcome of Web Civics, has been to produce an international framework of For Purpose Web Civics 'Alliance' members; to support the production of technology for the public good.  The ultimate goal, is to produce outcomes that meaningfully support the development of Peace Infrastructure. To achieve this, technology must be defined and implemented in-iorder to give effect to works for [[EndingDigitalSlavery]], supporting [[FreedomOfThought]], empowering [[FairWorkProtocols]] and spearheading the development of various other activities that have purposefully positive goals.  

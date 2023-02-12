@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Sense.md",
+                "file": "Projects.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0cbb49b359f738a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9380dafb1940e293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebCivicsCharter/AboutWebCivics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Sense.md",
+                "file": "Research.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Sense.md",
+                "file": "Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Sense.md"
+                "file": "Research.md"
               }
             }
           }
@@ -147,17 +172,17 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "723fd4777dbe8ad0",
+  "active": "b0cbb49b359f738a",
   "lastOpenFiles": [
+    "Projects.md",
+    "README.md",
+    "WebCivicsCharter/AboutWebCivics.md",
     "Projects/Sense.md",
     "Projects/CognitiveAI/PlausibleReasoning.md",
     "Projects/CognitiveAI/DefeasibleLogic.md",
     "Projects/CognitiveAI/CognitiveAI-WIP.md",
     "Projects/CognitiveAI.md",
-    "README.md",
     "Projects/TheValuesProject.md",
-    "Projects/ArtificialMinds.md",
-    "Projects/Sense/IntroductoryNotes.md",
-    "Projects/PermissiveCommons.md"
+    "Projects/ArtificialMinds.md"
   ]
 }
