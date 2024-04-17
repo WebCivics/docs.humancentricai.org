@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "5c8a0b5d0bb7a042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorials/LinkedData.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b0cbb49b359f738a",
             "type": "leaf",
             "state": {
@@ -89,6 +101,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "77a2669e5d3384d5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/ArtificialMinds/AiClassifiers.md",
+                "file": "Tutorials/LinkedData.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/ArtificialMinds/AiClassifiers.md",
+                "file": "Tutorials/LinkedData.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/ArtificialMinds/AiClassifiers.md"
+                "file": "Tutorials/LinkedData.md"
               }
             }
           }
@@ -172,10 +192,21 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
-  "active": "b0cbb49b359f738a",
+  "active": "5c8a0b5d0bb7a042",
   "lastOpenFiles": [
-    "Research.md",
+    "Projects/Agreements/Flow.md",
+    "Tutorials/LinkedData.md",
+    "Projects/Agreements.md",
+    "Projects/ADP.md",
+    "Projects/Agreements",
+    "images/2024-03-02_diagram-2.png",
+    "images",
+    "Tutorials.md",
+    "Projects/ADP",
     "Projects.md",
+    "Tutorials",
+    "Projects/ArtificialMinds/AiClassifiers.md",
+    "Research.md",
     "README.md",
     "WebCivicsCharter/AboutWebCivics.md",
     "Projects/Sense.md",
